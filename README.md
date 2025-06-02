@@ -2,6 +2,7 @@
 ## 安装依赖
 ```shell
 sudo apt install ros-noetic-serial
+sudo apt-get install util-linux libusb-1.0-0-dev # 可能缺少usb虚拟串口驱动
 ```
 ## Git Clone And Compile
 ```shell
